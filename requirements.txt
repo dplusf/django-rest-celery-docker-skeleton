@@ -1,0 +1,10 @@
+django==1.11.12
+psycopg2==2.7.1
+pathlib==1.0.1
+gevent==1.2.2
+greenlet==0.4.13
+celery==4.1.0
+django_celery_results==1.0.1
+djangorestframework==3.7.7
+django-rest-multiple-models==2.0.1
+pyyaml==3.12

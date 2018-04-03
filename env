@@ -1,0 +1,5 @@
+DB_NAME=django
+DB_USER=django
+DB_PASS=09asljdf14109oplafsd
+DB_SERVICE=postgres
+DB_PORT=5432
