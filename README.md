@@ -1,9 +1,10 @@
 # Django Rest Celery Docker Skeleton
 
-Skeleton for new projects.
+Skeleton for containerized Django Project with DRF, Celery, PostgreSQL and RabbitMQ...
+
 There is a hello world django app in src folder as a example.
 
-Docker Container every Service:
+## Container
 
 + Django 1.11.12 + DRF (Django Rest Framework)
 + Postgres
